@@ -22,7 +22,7 @@
         </intent-filter>
         </activity>
         <activity
-            android:name=".GuardScreen"
+            android:name=".GuardFragment"
             android:exported="true">
 
         </activity>
